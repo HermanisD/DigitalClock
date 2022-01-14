@@ -1,13 +1,26 @@
 body {
-    background: red;
+  background: red;
 }
 
 .clock {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    color: #17D4FE;
-    font-size: 260px;
-    font-family: Rubik Beastly, cursive;
-    letter-spacing: 7px;}
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17d4fe;
+  font-size: 260px;
+  font-family: Rubik Beastly, cursive;
+  letter-spacing: 7px;
+
+}
+
+.date {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17d4fe;
+  font-size: 60px;
+  font-family: Rubik Beastly, cursive;
+  letter-spacing: 7px;
+}
