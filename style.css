@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: red;
 }
 
 .clock {
@@ -8,6 +8,6 @@ body {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #17D4FE;
-    font-size: 160px;
+    font-size: 260px;
     font-family: Rubik Beastly, cursive;
     letter-spacing: 7px;}
